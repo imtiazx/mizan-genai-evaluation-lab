@@ -1,0 +1,19 @@
+{
+    "dataset_id": "SYN-001",
+    "dataset_version": 1,
+    "source": "Expense claims above $500 require manager approval.",
+    "claims": [
+        {
+            "text": "Claims above $500 require manager approval.",
+            "supported": true
+        },
+        {
+            "text": "Claims below $500 always require finance-director approval.",
+            "supported": false
+        },
+        {
+            "text": "The policy concerns expense claims.",
+            "supported": true
+        }
+    ]
+}

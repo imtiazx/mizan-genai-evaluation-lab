@@ -1,0 +1,17 @@
+{
+  "dataset_id": "SYN-001",
+  "dataset_version": 1,
+  "answer_version": "corrected-v1",
+  "baseline_reference": "fixture.json",
+  "source": "Expense claims above $500 require manager approval.",
+  "claims": [
+    {
+      "text": "Claims above $500 require manager approval.",
+      "supported": true
+    },
+    {
+      "text": "The policy concerns expense claims.",
+      "supported": true
+    }
+  ]
+}
